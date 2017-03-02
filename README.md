@@ -10,3 +10,9 @@
 ##三.联系方式
 emain:2818461312@qq.com
 
+
+###kafka阅读列表
+```
+http://orchome.com/5
+```
+
